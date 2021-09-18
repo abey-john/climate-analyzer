@@ -1,0 +1,25 @@
+10 Countries with the Lowest Temperatures in the World in January
+Temperature, Year, Month_Avg, Country, Country_Code
+-29.64(C) -21.36(F), 2006, Jan, Russia, RUS
+-26.52(C) -15.73(F), 2008, Jan, Greenland, GRL
+-26.04(C) -14.87(F), 2004, Jan, Canada, CAN
+-25.54(C) -13.97(F), 2011, Jan, Mongolia, MNG
+-18.19(C) -0.73(F), 2008, Jan, Kyrgyzstan, KGZ
+-18.09(C) -0.57(F), 2006, Jan, Kazakhstan, KAZ
+-16.19(C) 2.85(F), 2003, Jan, Finland, FIN
+-15.26(C) 4.53(F), 2011, Jan, Democratic People's Republic of Korea, PRK
+-14.85(C) 5.26(F), 2008, Jan, Tajikistan, TJK
+-12.89(C) 8.8(F), 2010, Jan, Sweden, SWE
+
+10 Countries with the Highest Temperatures in the World in June
+Temperature, Year, Month_Avg, Country, Country_Code
+33.18(C) 91.72(F), 2009, Jun, Sudan, SDN
+33.25(C) 91.85(F), 2012, Jun, Algeria, DZA
+33.57(C) 92.42(F), 2010, Jun, Saudi Arabia, SAU
+34.38(C) 93.88(F), 2015, Jun, United Arab Emirates, ARE
+34.61(C) 94.31(F), 2015, Jun, Niger, NER
+34.68(C) 94.42(F), 2015, Jun, Mauritania, MRT
+34.83(C) 94.69(F), 2015, Jun, Mali, MLI
+36.65(C) 97.97(F), 2011, Jun, Qatar, QAT
+36.87(C) 98.37(F), 2011, Jun, Bahrain, BHR
+37.0(C) 98.6(F), 2015, Jun, Kuwait, KWT

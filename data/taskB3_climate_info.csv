@@ -1,0 +1,474 @@
+All Temperatures (Celsius) Between 3.0 and 4.0 in the World
+Temperature, Year, Month_Avg, Country, Country_Code
+3.0(C) 37.41(F), 2004, Jan, Belgium, BEL
+3.0(C) 37.41(F), 2004, Dec, Croatia, HRV
+3.01(C) 37.42(F), 2007, Nov, Moldova, MDA
+3.01(C) 37.42(F), 2007, Oct, Iceland, ISL
+3.01(C) 37.42(F), 2010, Dec, Andorra, AND
+3.01(C) 37.42(F), 2007, Feb, Macedonia, MKD
+3.02(C) 37.43(F), 2002, Mar, Lithuania, LTU
+3.02(C) 37.44(F), 2002, Dec, Netherlands, NLD
+3.02(C) 37.44(F), 2016, Nov, Slovakia, SVK
+3.02(C) 37.44(F), 2006, May, Iceland, ISL
+3.02(C) 37.44(F), 2011, Mar, Denmark, DNK
+3.03(C) 37.45(F), 2010, Nov, Denmark, DNK
+3.03(C) 37.45(F), 2012, Dec, Albania, ALB
+3.03(C) 37.45(F), 2011, Jan, United Kingdom, GBR
+3.03(C) 37.45(F), 2011, Nov, Austria, AUT
+3.03(C) 37.46(F), 2001, Dec, Belgium, BEL
+3.04(C) 37.46(F), 2000, Dec, Republic of Serbia, SRB
+3.04(C) 37.47(F), 2015, Mar, Austria, AUT
+3.04(C) 37.47(F), 2015, Nov, Armenia, ARM
+3.04(C) 37.47(F), 2002, Mar, China, CHN
+3.04(C) 37.47(F), 2013, Mar, Slovenia, SVN
+3.04(C) 37.47(F), 2003, Mar, Austria, AUT
+3.04(C) 37.47(F), 2009, Feb, Netherlands, NLD
+3.04(C) 37.48(F), 2002, Feb, Afghanistan, AFG
+3.04(C) 37.48(F), 2000, Jul, Chile, CHL
+3.04(C) 37.48(F), 2010, Jan, Italy, ITA
+3.05(C) 37.48(F), 2000, Jan, Andorra, AND
+3.05(C) 37.49(F), 2010, Oct, Iceland, ISL
+3.05(C) 37.49(F), 2014, Feb, Czech Republic, CZE
+3.06(C) 37.5(F), 2010, Jul, Chile, CHL
+3.06(C) 37.5(F), 2004, Jan, Faroe Islands, FRO
+3.06(C) 37.51(F), 2013, Oct, Finland, FIN
+3.06(C) 37.51(F), 2008, Dec, Bosnia and Herzegovina, BIH
+3.07(C) 37.53(F), 2008, Dec, Bulgaria, BGR
+3.07(C) 37.53(F), 2003, Nov, Latvia, LVA
+3.07(C) 37.53(F), 2001, Oct, Norway, NOR
+3.07(C) 37.53(F), 2013, Mar, Romania, ROU
+3.08(C) 37.54(F), 2005, Nov, Poland, POL
+3.08(C) 37.55(F), 2003, Mar, Bulgaria, BGR
+3.08(C) 37.55(F), 2015, Oct, Mongolia, MNG
+3.09(C) 37.56(F), 2013, Feb, Afghanistan, AFG
+3.09(C) 37.56(F), 2008, Nov, Austria, AUT
+3.09(C) 37.57(F), 2005, Jan, Denmark, DNK
+3.09(C) 37.57(F), 2003, Feb, France, FRA
+3.1(C) 37.58(F), 2006, Dec, Bosnia and Herzegovina, BIH
+3.1(C) 37.58(F), 2001, Jan, Belgium, BEL
+3.1(C) 37.58(F), 2007, Oct, Norway, NOR
+3.11(C) 37.6(F), 2004, Dec, Afghanistan, AFG
+3.11(C) 37.6(F), 2015, Mar, Switzerland, CHE
+3.11(C) 37.6(F), 2014, Dec, Azerbaijan, AZE
+3.11(C) 37.6(F), 2004, Feb, Monaco, MCO
+3.11(C) 37.6(F), 2001, Jul, Chile, CHL
+3.11(C) 37.61(F), 2000, Apr, Liechtenstein, LIE
+3.11(C) 37.61(F), 2015, Feb, Belgium, BEL
+3.12(C) 37.62(F), 2009, Feb, Turkey, TUR
+3.12(C) 37.62(F), 2003, Jan, Andorra, AND
+3.12(C) 37.62(F), 2010, Feb, Azerbaijan, AZE
+3.13(C) 37.63(F), 2005, Jan, Italy, ITA
+3.13(C) 37.63(F), 2003, Mar, Republic of Montenegro, MNE
+3.14(C) 37.64(F), 2011, Nov, Poland, POL
+3.14(C) 37.65(F), 2005, Feb, Faroe Islands, FRO
+3.14(C) 37.65(F), 2016, Nov, Poland, POL
+3.14(C) 37.65(F), 2011, Nov, Czech Republic, CZE
+3.14(C) 37.65(F), 2001, Dec, Netherlands, NLD
+3.14(C) 37.65(F), 2007, Jan, Turkmenistan, TKM
+3.14(C) 37.65(F), 2011, Mar, Switzerland, CHE
+3.14(C) 37.66(F), 2008, Feb, Poland, POL
+3.14(C) 37.66(F), 2006, Nov, Belarus, BLR
+3.14(C) 37.66(F), 2016, Nov, Czech Republic, CZE
+3.15(C) 37.67(F), 2007, Jan, Czech Republic, CZE
+3.15(C) 37.67(F), 2007, Jul, Chile, CHL
+3.15(C) 37.68(F), 2000, Dec, Bulgaria, BGR
+3.16(C) 37.68(F), 2004, Jan, Netherlands, NLD
+3.16(C) 37.68(F), 2001, Nov, Hungary, HUN
+3.16(C) 37.69(F), 2008, Nov, Lithuania, LTU
+3.16(C) 37.69(F), 2000, Nov, Uzbekistan, UZB
+3.16(C) 37.69(F), 2000, Apr, Faroe Islands, FRO
+3.17(C) 37.7(F), 2013, Feb, Andorra, AND
+3.17(C) 37.7(F), 2013, May, Iceland, ISL
+3.18(C) 37.72(F), 2000, Feb, Hungary, HUN
+3.18(C) 37.72(F), 2012, Mar, Japan, JPN
+3.18(C) 37.72(F), 2003, Apr, Iceland, ISL
+3.18(C) 37.73(F), 2010, Jan, Afghanistan, AFG
+3.18(C) 37.73(F), 2011, Mar, Austria, AUT
+3.18(C) 37.73(F), 2013, Feb, Italy, ITA
+3.19(C) 37.73(F), 2011, Nov, Macedonia, MKD
+3.19(C) 37.74(F), 2015, Dec, Bosnia and Herzegovina, BIH
+3.19(C) 37.74(F), 2012, Mar, Turkey, TUR
+3.19(C) 37.74(F), 2006, Jan, Andorra, AND
+3.19(C) 37.74(F), 2016, Jan, Luxembourg, LUX
+3.19(C) 37.74(F), 2001, Nov, Slovenia, SVN
+3.19(C) 37.74(F), 2016, Dec, Japan, JPN
+3.19(C) 37.75(F), 2000, Nov, Switzerland, CHE
+3.2(C) 37.75(F), 2002, Oct, Latvia, LVA
+3.2(C) 37.76(F), 2004, Dec, Turkmenistan, TKM
+3.2(C) 37.76(F), 2015, Jan, Albania, ALB
+3.2(C) 37.77(F), 2004, Mar, Czech Republic, CZE
+3.2(C) 37.77(F), 2003, Apr, Estonia, EST
+3.2(C) 37.77(F), 2008, Jan, Faroe Islands, FRO
+3.21(C) 37.77(F), 2014, Oct, Norway, NOR
+3.21(C) 37.77(F), 2011, Mar, Republic of Korea, KOR
+3.21(C) 37.77(F), 2008, Dec, Monaco, MCO
+3.21(C) 37.78(F), 2000, Feb, Denmark, DNK
+3.21(C) 37.79(F), 2002, Dec, Luxembourg, LUX
+3.22(C) 37.8(F), 2011, Dec, Republic of Serbia, SRB
+3.22(C) 37.8(F), 2009, Dec, Bulgaria, BGR
+3.23(C) 37.81(F), 2007, Mar, Estonia, EST
+3.23(C) 37.81(F), 2000, Dec, Germany, DEU
+3.23(C) 37.81(F), 2013, Jan, Nepal, NPL
+3.23(C) 37.81(F), 2011, Mar, Moldova, MDA
+3.23(C) 37.81(F), 2001, Dec, Azerbaijan, AZE
+3.23(C) 37.81(F), 2010, Jan, Faroe Islands, FRO
+3.24(C) 37.82(F), 2011, Nov, Republic of Montenegro, MNE
+3.24(C) 37.83(F), 2016, Jan, Faroe Islands, FRO
+3.24(C) 37.83(F), 2008, Dec, Turkmenistan, TKM
+3.24(C) 37.83(F), 2008, Nov, Georgia, GEO
+3.24(C) 37.84(F), 2001, Dec, Greece, GRC
+3.25(C) 37.86(F), 2007, Aug, Chile, CHL
+3.25(C) 37.86(F), 2007, Feb, Republic of Montenegro, MNE
+3.26(C) 37.86(F), 2009, Nov, Latvia, LVA
+3.26(C) 37.87(F), 2005, Sep, Iceland, ISL
+3.26(C) 37.87(F), 2008, Dec, Republic of Serbia, SRB
+3.26(C) 37.87(F), 2003, Jan, Turkmenistan, TKM
+3.26(C) 37.87(F), 2002, Mar, Faroe Islands, FRO
+3.27(C) 37.88(F), 2011, Jan, Netherlands, NLD
+3.27(C) 37.89(F), 2013, Jan, Albania, ALB
+3.27(C) 37.89(F), 2015, Mar, Latvia, LVA
+3.27(C) 37.89(F), 2015, Feb, Netherlands, NLD
+3.27(C) 37.89(F), 2011, Jan, Belgium, BEL
+3.28(C) 37.9(F), 2008, Feb, Slovenia, SVN
+3.28(C) 37.9(F), 2001, Oct, Iceland, ISL
+3.28(C) 37.91(F), 2005, Dec, Turkey, TUR
+3.29(C) 37.91(F), 2011, Feb, Albania, ALB
+3.29(C) 37.91(F), 2009, Nov, Georgia, GEO
+3.29(C) 37.92(F), 2001, Nov, Moldova, MDA
+3.29(C) 37.92(F), 2008, Jan, Syria, SYR
+3.29(C) 37.93(F), 2007, Dec, Denmark, DNK
+3.3(C) 37.94(F), 2002, Nov, Georgia, GEO
+3.3(C) 37.94(F), 2013, Mar, Republic of Montenegro, MNE
+3.3(C) 37.94(F), 2012, Jan, Luxembourg, LUX
+3.3(C) 37.94(F), 2008, Feb, Republic of Serbia, SRB
+3.3(C) 37.95(F), 2007, Jan, Poland, POL
+3.31(C) 37.95(F), 2005, Dec, Belgium, BEL
+3.31(C) 37.95(F), 2014, Dec, Bosnia and Herzegovina, BIH
+3.31(C) 37.96(F), 2015, Jan, Faroe Islands, FRO
+3.31(C) 37.96(F), 2014, Dec, Republic of Serbia, SRB
+3.32(C) 37.97(F), 2010, Dec, Japan, JPN
+3.32(C) 37.97(F), 2003, Jan, Albania, ALB
+3.32(C) 37.97(F), 2005, Mar, Republic of Korea, KOR
+3.32(C) 37.98(F), 2009, Feb, Faroe Islands, FRO
+3.33(C) 37.99(F), 2000, Mar, Slovakia, SVK
+3.33(C) 37.99(F), 2006, Mar, Luxembourg, LUX
+3.33(C) 38.0(F), 2011, Dec, Bosnia and Herzegovina, BIH
+3.33(C) 38.0(F), 2006, Dec, Estonia, EST
+3.33(C) 38.0(F), 2008, Dec, Croatia, HRV
+3.33(C) 38.0(F), 2010, Nov, Lithuania, LTU
+3.34(C) 38.0(F), 2016, Jan, Albania, ALB
+3.34(C) 38.0(F), 2005, Mar, Slovenia, SVN
+3.34(C) 38.01(F), 2009, Mar, Poland, POL
+3.34(C) 38.01(F), 2008, Dec, United Kingdom, GBR
+3.34(C) 38.01(F), 2011, Feb, Monaco, MCO
+3.35(C) 38.02(F), 2003, Jan, Faroe Islands, FRO
+3.35(C) 38.03(F), 2016, Jan, Bhutan, BTN
+3.35(C) 38.03(F), 2006, Dec, Latvia, LVA
+3.35(C) 38.04(F), 2016, Feb, Czech Republic, CZE
+3.36(C) 38.04(F), 2005, Nov, Estonia, EST
+3.36(C) 38.04(F), 2008, Dec, France, FRA
+3.36(C) 38.04(F), 2003, Dec, Denmark, DNK
+3.36(C) 38.05(F), 2001, Feb, United Kingdom, GBR
+3.36(C) 38.05(F), 2016, Feb, Germany, DEU
+3.36(C) 38.05(F), 2002, Mar, Belarus, BLR
+3.36(C) 38.05(F), 2016, Oct, Liechtenstein, LIE
+3.36(C) 38.05(F), 2012, Nov, Estonia, EST
+3.36(C) 38.05(F), 2006, Oct, Mongolia, MNG
+3.37(C) 38.06(F), 2016, Nov, United States, USA
+3.38(C) 38.08(F), 2002, Jan, Italy, ITA
+3.38(C) 38.08(F), 2000, Feb, Albania, ALB
+3.38(C) 38.09(F), 2001, Dec, United Kingdom, GBR
+3.38(C) 38.09(F), 2011, Apr, Finland, FIN
+3.39(C) 38.1(F), 2006, Feb, Andorra, AND
+3.39(C) 38.1(F), 2001, Mar, Japan, JPN
+3.39(C) 38.11(F), 2000, Dec, Denmark, DNK
+3.39(C) 38.11(F), 2001, Feb, Azerbaijan, AZE
+3.4(C) 38.11(F), 2007, Dec, Monaco, MCO
+3.4(C) 38.11(F), 2007, Nov, Republic of Montenegro, MNE
+3.4(C) 38.11(F), 2012, Dec, Faroe Islands, FRO
+3.4(C) 38.11(F), 2000, Mar, Republic of Montenegro, MNE
+3.41(C) 38.13(F), 2011, Feb, Luxembourg, LUX
+3.41(C) 38.14(F), 2007, Nov, Slovenia, SVN
+3.41(C) 38.14(F), 2007, Feb, Bulgaria, BGR
+3.41(C) 38.14(F), 2008, Dec, Afghanistan, AFG
+3.41(C) 38.14(F), 2005, Mar, Republic of Serbia, SRB
+3.41(C) 38.14(F), 2014, Oct, Kyrgyzstan, KGZ
+3.41(C) 38.15(F), 2006, Mar, Japan, JPN
+3.41(C) 38.15(F), 2007, Jan, Moldova, MDA
+3.42(C) 38.15(F), 2008, Feb, Bosnia and Herzegovina, BIH
+3.42(C) 38.15(F), 2012, Dec, Turkey, TUR
+3.42(C) 38.15(F), 2015, Feb, Afghanistan, AFG
+3.42(C) 38.15(F), 2008, Dec, Japan, JPN
+3.42(C) 38.16(F), 2007, Jan, Slovenia, SVN
+3.43(C) 38.17(F), 2013, Dec, Turkmenistan, TKM
+3.43(C) 38.17(F), 2000, Mar, Faroe Islands, FRO
+3.43(C) 38.17(F), 2001, Oct, Finland, FIN
+3.43(C) 38.17(F), 2006, Nov, Latvia, LVA
+3.43(C) 38.17(F), 2008, Nov, Armenia, ARM
+3.43(C) 38.17(F), 2003, Mar, Denmark, DNK
+3.43(C) 38.17(F), 2005, Mar, Bosnia and Herzegovina, BIH
+3.43(C) 38.18(F), 2004, Dec, Netherlands, NLD
+3.43(C) 38.18(F), 2014, Jan, Bosnia and Herzegovina, BIH
+3.44(C) 38.19(F), 2014, Mar, Latvia, LVA
+3.44(C) 38.19(F), 2000, Sep, Canada, CAN
+3.44(C) 38.2(F), 2011, Oct, Mongolia, MNG
+3.45(C) 38.2(F), 2013, Dec, Croatia, HRV
+3.45(C) 38.21(F), 2010, Nov, Austria, AUT
+3.45(C) 38.21(F), 2012, May, Iceland, ISL
+3.45(C) 38.21(F), 2007, Jan, Faroe Islands, FRO
+3.46(C) 38.22(F), 2010, Mar, Japan, JPN
+3.46(C) 38.22(F), 2000, Jan, France, FRA
+3.47(C) 38.24(F), 2000, Dec, Bosnia and Herzegovina, BIH
+3.47(C) 38.25(F), 2003, Mar, Macedonia, MKD
+3.48(C) 38.26(F), 2004, Feb, Luxembourg, LUX
+3.48(C) 38.26(F), 2004, Dec, Japan, JPN
+3.48(C) 38.26(F), 2011, Mar, Poland, POL
+3.48(C) 38.27(F), 2015, Feb, United Kingdom, GBR
+3.48(C) 38.27(F), 2011, Nov, Turkey, TUR
+3.49(C) 38.28(F), 2001, Nov, Republic of Montenegro, MNE
+3.49(C) 38.28(F), 2003, May, Iceland, ISL
+3.49(C) 38.28(F), 2013, Jan, France, FRA
+3.49(C) 38.29(F), 2003, Nov, Switzerland, CHE
+3.5(C) 38.29(F), 2005, Feb, United Kingdom, GBR
+3.5(C) 38.3(F), 2005, Jan, Andorra, AND
+3.5(C) 38.3(F), 2004, Dec, Denmark, DNK
+3.5(C) 38.3(F), 2004, Mar, Slovenia, SVN
+3.5(C) 38.3(F), 2002, Feb, Turkey, TUR
+3.5(C) 38.31(F), 2013, Oct, Sweden, SWE
+3.5(C) 38.31(F), 2004, Oct, Kyrgyzstan, KGZ
+3.51(C) 38.31(F), 2005, Oct, Norway, NOR
+3.51(C) 38.31(F), 2013, Feb, Bulgaria, BGR
+3.51(C) 38.32(F), 2003, Feb, United Kingdom, GBR
+3.51(C) 38.32(F), 2013, Jan, United Kingdom, GBR
+3.51(C) 38.32(F), 2011, Jan, Ireland, IRL
+3.51(C) 38.32(F), 2005, Jan, Faroe Islands, FRO
+3.51(C) 38.33(F), 2000, Apr, Mongolia, MNG
+3.51(C) 38.33(F), 2005, Nov, Romania, ROU
+3.52(C) 38.33(F), 2002, Nov, Republic of Korea, KOR
+3.52(C) 38.33(F), 2014, Mar, Armenia, ARM
+3.52(C) 38.33(F), 2004, Nov, Ukraine, UKR
+3.52(C) 38.33(F), 2004, May, Russia, RUS
+3.52(C) 38.33(F), 2007, Dec, Belgium, BEL
+3.52(C) 38.34(F), 2003, Feb, Afghanistan, AFG
+3.52(C) 38.34(F), 2008, Jan, Germany, DEU
+3.52(C) 38.34(F), 2004, Feb, Faroe Islands, FRO
+3.52(C) 38.34(F), 2009, Dec, Ireland, IRL
+3.52(C) 38.34(F), 2009, Dec, Afghanistan, AFG
+3.53(C) 38.35(F), 2015, Oct, Sweden, SWE
+3.53(C) 38.35(F), 2006, Feb, United Kingdom, GBR
+3.53(C) 38.35(F), 2015, Feb, Albania, ALB
+3.54(C) 38.37(F), 2000, Mar, Turkey, TUR
+3.54(C) 38.37(F), 2005, Dec, Afghanistan, AFG
+3.54(C) 38.37(F), 2006, Oct, Sweden, SWE
+3.54(C) 38.38(F), 2001, Nov, Republic of Serbia, SRB
+3.54(C) 38.38(F), 2011, May, Iceland, ISL
+3.54(C) 38.38(F), 2010, Feb, France, FRA
+3.55(C) 38.38(F), 2005, Mar, Hungary, HUN
+3.55(C) 38.39(F), 2014, Dec, Denmark, DNK
+3.55(C) 38.39(F), 2002, Jan, Nepal, NPL
+3.55(C) 38.39(F), 2014, Dec, Luxembourg, LUX
+3.55(C) 38.39(F), 2003, Feb, Andorra, AND
+3.56(C) 38.4(F), 2010, Mar, Slovakia, SVK
+3.56(C) 38.4(F), 2002, Jan, Belgium, BEL
+3.56(C) 38.41(F), 2015, Jan, Belgium, BEL
+3.56(C) 38.41(F), 2004, Feb, Albania, ALB
+3.56(C) 38.41(F), 2004, Jan, Italy, ITA
+3.56(C) 38.42(F), 2008, Mar, Kazakhstan, KAZ
+3.57(C) 38.42(F), 2016, Jan, Afghanistan, AFG
+3.57(C) 38.42(F), 2010, Jan, Nepal, NPL
+3.57(C) 38.42(F), 2016, Feb, Poland, POL
+3.57(C) 38.43(F), 2011, Jan, Andorra, AND
+3.57(C) 38.43(F), 2007, Mar, Austria, AUT
+3.58(C) 38.44(F), 2003, Nov, Lithuania, LTU
+3.58(C) 38.44(F), 2009, May, Russia, RUS
+3.58(C) 38.44(F), 2006, May, Russia, RUS
+3.58(C) 38.44(F), 2010, Feb, Andorra, AND
+3.58(C) 38.45(F), 2010, Mar, Poland, POL
+3.58(C) 38.45(F), 2008, Mar, China, CHN
+3.58(C) 38.45(F), 2001, Oct, Kyrgyzstan, KGZ
+3.59(C) 38.45(F), 2010, Oct, Liechtenstein, LIE
+3.59(C) 38.46(F), 2011, Oct, Norway, NOR
+3.59(C) 38.46(F), 2012, Dec, Luxembourg, LUX
+3.59(C) 38.47(F), 2002, Nov, Armenia, ARM
+3.59(C) 38.47(F), 2005, Dec, Albania, ALB
+3.6(C) 38.47(F), 2014, Oct, Mongolia, MNG
+3.6(C) 38.48(F), 2013, Feb, Azerbaijan, AZE
+3.6(C) 38.48(F), 2004, Jan, Nepal, NPL
+3.6(C) 38.48(F), 2001, Mar, Ukraine, UKR
+3.6(C) 38.48(F), 2006, Mar, Bosnia and Herzegovina, BIH
+3.6(C) 38.48(F), 2010, Mar, Armenia, ARM
+3.61(C) 38.49(F), 2008, Jan, Denmark, DNK
+3.61(C) 38.5(F), 2005, Dec, Italy, ITA
+3.61(C) 38.5(F), 2002, Jan, Greece, GRC
+3.61(C) 38.51(F), 2008, Oct, Sweden, SWE
+3.61(C) 38.51(F), 2009, Feb, United Kingdom, GBR
+3.62(C) 38.51(F), 2012, Jan, Monaco, MCO
+3.62(C) 38.51(F), 2004, Mar, Republic of Montenegro, MNE
+3.62(C) 38.52(F), 2002, Mar, Switzerland, CHE
+3.62(C) 38.52(F), 2002, Feb, Romania, ROU
+3.63(C) 38.54(F), 2009, Dec, Faroe Islands, FRO
+3.63(C) 38.54(F), 2000, Jan, Belgium, BEL
+3.63(C) 38.54(F), 2009, Nov, Armenia, ARM
+3.64(C) 38.55(F), 2007, Oct, Tajikistan, TJK
+3.64(C) 38.55(F), 2015, Feb, France, FRA
+3.64(C) 38.55(F), 2006, Mar, Netherlands, NLD
+3.64(C) 38.55(F), 2004, Feb, Azerbaijan, AZE
+3.64(C) 38.55(F), 2012, Jul, Chile, CHL
+3.64(C) 38.56(F), 2013, Apr, Faroe Islands, FRO
+3.64(C) 38.56(F), 2006, Dec, Lithuania, LTU
+3.65(C) 38.56(F), 2015, Jan, Monaco, MCO
+3.65(C) 38.56(F), 2012, Nov, Switzerland, CHE
+3.65(C) 38.57(F), 2004, Nov, Czech Republic, CZE
+3.65(C) 38.57(F), 2011, Jan, Faroe Islands, FRO
+3.65(C) 38.58(F), 2009, Dec, Monaco, MCO
+3.66(C) 38.59(F), 2002, May, Iceland, ISL
+3.66(C) 38.59(F), 2016, Mar, United States, USA
+3.66(C) 38.59(F), 2003, Dec, Albania, ALB
+3.67(C) 38.6(F), 2001, Mar, Switzerland, CHE
+3.67(C) 38.6(F), 2007, Sep, Canada, CAN
+3.67(C) 38.61(F), 2013, Apr, Estonia, EST
+3.67(C) 38.61(F), 2004, Nov, Slovakia, SVK
+3.68(C) 38.63(F), 2004, Mar, Denmark, DNK
+3.69(C) 38.63(F), 2009, Mar, Czech Republic, CZE
+3.69(C) 38.63(F), 2011, Dec, Croatia, HRV
+3.69(C) 38.64(F), 2003, Mar, Switzerland, CHE
+3.69(C) 38.64(F), 2009, Apr, Kyrgyzstan, KGZ
+3.69(C) 38.64(F), 2011, Jan, Nepal, NPL
+3.69(C) 38.64(F), 2013, Dec, Germany, DEU
+3.69(C) 38.65(F), 2016, Feb, United Kingdom, GBR
+3.7(C) 38.65(F), 2014, Jan, Nepal, NPL
+3.7(C) 38.66(F), 2010, Mar, Czech Republic, CZE
+3.7(C) 38.66(F), 2014, Dec, Faroe Islands, FRO
+3.7(C) 38.66(F), 2016, Nov, Moldova, MDA
+3.71(C) 38.67(F), 2003, Jan, United Kingdom, GBR
+3.71(C) 38.68(F), 2013, Nov, Armenia, ARM
+3.72(C) 38.69(F), 2001, Apr, Switzerland, CHE
+3.72(C) 38.69(F), 2005, Mar, Bulgaria, BGR
+3.73(C) 38.71(F), 2004, Nov, Poland, POL
+3.73(C) 38.72(F), 2002, Feb, Azerbaijan, AZE
+3.73(C) 38.72(F), 2014, Feb, Republic of Montenegro, MNE
+3.73(C) 38.72(F), 2011, Jul, Chile, CHL
+3.74(C) 38.72(F), 2002, May, Russia, RUS
+3.74(C) 38.72(F), 2002, Feb, Republic of Montenegro, MNE
+3.74(C) 38.73(F), 2011, Dec, Germany, DEU
+3.74(C) 38.73(F), 2008, Mar, Czech Republic, CZE
+3.74(C) 38.74(F), 2004, Sep, Canada, CAN
+3.75(C) 38.75(F), 2006, Dec, Poland, POL
+3.75(C) 38.75(F), 2004, Jan, Bhutan, BTN
+3.76(C) 38.76(F), 2012, Nov, Latvia, LVA
+3.76(C) 38.76(F), 2007, Nov, Hungary, HUN
+3.76(C) 38.77(F), 2013, Mar, Hungary, HUN
+3.76(C) 38.77(F), 2016, Dec, Greece, GRC
+3.77(C) 38.78(F), 2011, Apr, Sweden, SWE
+3.77(C) 38.78(F), 2000, Mar, Romania, ROU
+3.77(C) 38.78(F), 2013, Dec, Albania, ALB
+3.77(C) 38.78(F), 2011, Nov, Switzerland, CHE
+3.77(C) 38.79(F), 2014, Apr, Liechtenstein, LIE
+3.77(C) 38.79(F), 2014, Feb, Slovenia, SVN
+3.77(C) 38.79(F), 2015, Feb, Andorra, AND
+3.77(C) 38.79(F), 2016, Feb, Slovakia, SVK
+3.77(C) 38.79(F), 2002, Feb, Uzbekistan, UZB
+3.78(C) 38.8(F), 2016, Mar, Denmark, DNK
+3.78(C) 38.8(F), 2001, Feb, Luxembourg, LUX
+3.78(C) 38.8(F), 2005, Apr, Mongolia, MNG
+3.78(C) 38.81(F), 2002, Feb, Czech Republic, CZE
+3.78(C) 38.81(F), 2015, Dec, Croatia, HRV
+3.79(C) 38.81(F), 2009, Mar, Republic of Montenegro, MNE
+3.79(C) 38.82(F), 2007, Jun, Chile, CHL
+3.79(C) 38.82(F), 2000, Dec, Afghanistan, AFG
+3.79(C) 38.83(F), 2011, Nov, Lithuania, LTU
+3.79(C) 38.83(F), 2008, Mar, Slovakia, SVK
+3.8(C) 38.83(F), 2015, Nov, Belarus, BLR
+3.8(C) 38.84(F), 2009, Nov, Belarus, BLR
+3.8(C) 38.84(F), 2010, Mar, Moldova, MDA
+3.8(C) 38.84(F), 2008, Mar, Denmark, DNK
+3.81(C) 38.85(F), 2009, Mar, Moldova, MDA
+3.81(C) 38.86(F), 2007, Jan, Iran, IRN
+3.81(C) 38.86(F), 2010, Mar, Republic of Korea, KOR
+3.81(C) 38.86(F), 2002, Feb, Poland, POL
+3.81(C) 38.86(F), 2015, Dec, Czech Republic, CZE
+3.82(C) 38.87(F), 2013, Mar, Bosnia and Herzegovina, BIH
+3.82(C) 38.87(F), 2009, Nov, Lithuania, LTU
+3.82(C) 38.88(F), 2004, Mar, Ukraine, UKR
+3.82(C) 38.88(F), 2012, Apr, Mongolia, MNG
+3.82(C) 38.88(F), 2008, Dec, Andorra, AND
+3.82(C) 38.88(F), 2001, Jul, New Zealand, NZL
+3.82(C) 38.88(F), 2001, Nov, Bosnia and Herzegovina, BIH
+3.83(C) 38.89(F), 2015, Jan, Netherlands, NLD
+3.83(C) 38.9(F), 2004, Mar, Poland, POL
+3.84(C) 38.9(F), 2014, Dec, Turkmenistan, TKM
+3.84(C) 38.91(F), 2007, Feb, Afghanistan, AFG
+3.84(C) 38.91(F), 2012, Jan, Faroe Islands, FRO
+3.84(C) 38.91(F), 2011, Jan, France, FRA
+3.84(C) 38.91(F), 2002, Dec, Albania, ALB
+3.84(C) 38.91(F), 2015, Feb, Faroe Islands, FRO
+3.84(C) 38.92(F), 2011, Mar, Faroe Islands, FRO
+3.84(C) 38.92(F), 2002, Nov, Denmark, DNK
+3.85(C) 38.92(F), 2014, Dec, Croatia, HRV
+3.85(C) 38.93(F), 2003, Dec, Faroe Islands, FRO
+3.85(C) 38.93(F), 2000, Feb, Germany, DEU
+3.85(C) 38.93(F), 2009, Feb, France, FRA
+3.85(C) 38.93(F), 2014, Feb, Turkey, TUR
+3.85(C) 38.94(F), 2006, Jan, United Kingdom, GBR
+3.85(C) 38.94(F), 2016, Nov, Romania, ROU
+3.86(C) 38.94(F), 2006, Nov, Ukraine, UKR
+3.87(C) 38.97(F), 2010, Nov, Armenia, ARM
+3.87(C) 38.97(F), 2000, Mar, Denmark, DNK
+3.88(C) 38.98(F), 2009, Dec, Azerbaijan, AZE
+3.88(C) 38.98(F), 2003, Nov, Ukraine, UKR
+3.88(C) 38.98(F), 2002, Feb, Slovenia, SVN
+3.88(C) 38.98(F), 2009, Jul, Chile, CHL
+3.88(C) 38.98(F), 2006, Mar, Hungary, HUN
+3.88(C) 38.98(F), 2010, Nov, Faroe Islands, FRO
+3.88(C) 38.98(F), 2015, Jan, United Kingdom, GBR
+3.88(C) 38.99(F), 2007, Oct, Sweden, SWE
+3.88(C) 38.99(F), 2005, Nov, Slovenia, SVN
+3.89(C) 38.99(F), 2015, Jan, Bhutan, BTN
+3.89(C) 39.0(F), 2004, Dec, France, FRA
+3.89(C) 39.0(F), 2000, May, Russia, RUS
+3.89(C) 39.0(F), 2011, Mar, Slovakia, SVK
+3.89(C) 39.0(F), 2004, Mar, Japan, JPN
+3.89(C) 39.0(F), 2009, Oct, Liechtenstein, LIE
+3.89(C) 39.01(F), 2009, Jan, Italy, ITA
+3.9(C) 39.02(F), 2004, Jan, Greece, GRC
+3.9(C) 39.02(F), 2007, Dec, France, FRA
+3.9(C) 39.03(F), 2013, Feb, Turkey, TUR
+3.9(C) 39.03(F), 2014, Mar, Japan, JPN
+3.91(C) 39.04(F), 2002, Apr, Tajikistan, TJK
+3.91(C) 39.04(F), 2016, Feb, Luxembourg, LUX
+3.91(C) 39.04(F), 2007, Nov, Germany, DEU
+3.91(C) 39.04(F), 2007, Feb, Germany, DEU
+3.91(C) 39.04(F), 2008, Feb, Albania, ALB
+3.91(C) 39.05(F), 2007, Feb, Faroe Islands, FRO
+3.92(C) 39.05(F), 2012, Dec, Monaco, MCO
+3.92(C) 39.05(F), 2002, Dec, Belgium, BEL
+3.92(C) 39.06(F), 2000, Mar, Moldova, MDA
+3.93(C) 39.07(F), 2000, Jan, Bhutan, BTN
+3.93(C) 39.07(F), 2001, Jan, Ireland, IRL
+3.94(C) 39.09(F), 2016, Jan, Nepal, NPL
+3.94(C) 39.09(F), 2008, Feb, Hungary, HUN
+3.94(C) 39.09(F), 2000, Mar, Poland, POL
+3.95(C) 39.11(F), 2002, Mar, Austria, AUT
+3.95(C) 39.11(F), 2003, Dec, Turkmenistan, TKM
+3.95(C) 39.11(F), 2014, Feb, Denmark, DNK
+3.95(C) 39.12(F), 2009, Feb, Italy, ITA
+3.96(C) 39.12(F), 2012, Nov, Belarus, BLR
+3.96(C) 39.13(F), 2011, Nov, Latvia, LVA
+3.96(C) 39.13(F), 2006, Mar, United Kingdom, GBR
+3.96(C) 39.13(F), 2010, Dec, Italy, ITA
+3.96(C) 39.14(F), 2005, Mar, Germany, DEU
+3.97(C) 39.14(F), 2003, Jul, New Zealand, NZL
+3.97(C) 39.15(F), 2004, Jul, New Zealand, NZL
+3.97(C) 39.15(F), 2001, Feb, Monaco, MCO
+3.98(C) 39.16(F), 2005, Nov, Moldova, MDA
+3.98(C) 39.17(F), 2006, Dec, Croatia, HRV
+3.98(C) 39.17(F), 2005, Dec, Netherlands, NLD
+3.99(C) 39.18(F), 2009, Mar, Romania, ROU
+3.99(C) 39.18(F), 2015, Dec, Japan, JPN
+3.99(C) 39.18(F), 2000, Feb, Nepal, NPL
+3.99(C) 39.18(F), 2002, Jan, Bhutan, BTN
+3.99(C) 39.19(F), 2007, Mar, Japan, JPN
+4.0(C) 39.19(F), 2006, Jan, Iran, IRN
+4.0(C) 39.2(F), 2008, Feb, Germany, DEU
+4.0(C) 39.2(F), 2010, Aug, Chile, CHL
+4.0(C) 39.2(F), 2014, Oct, Sweden, SWE
